@@ -49,7 +49,7 @@ Science is used for evil far more often than the supernatural appears. When the 
 
 ## The Organization: PRISM
 
-**P**lanetary **R**eadiness **I**ntelligence **S**trategic **M**onitoring
+Planetary Readiness, Intelligence, and Strategic Monitoring
 
 What does PRISM actually stand for? Different people believe different things. The mystery is intentional.
 

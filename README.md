@@ -1,6 +1,6 @@
 # Fate Campaign
 
-**Planetary Readiness, Intelligence and Strategic Monitoring (PRISM)**
+**Planetary Readiness, Intelligence, and Strategic Monitoring (PRISM)**
 
 A tabletop RPG campaign using **Fate Condensed** set in a 1960s retro-futuristic alternate history.
 

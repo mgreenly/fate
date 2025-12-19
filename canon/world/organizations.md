@@ -1,6 +1,6 @@
 # Established Organizations
 
-## PRISM (Planetary Readiness Intelligence Strategic Monitoring)
+## PRISM (Planetary Readiness, Intelligence, and Strategic Monitoring)
 
 **Status:** Confirmed as primary organization for campaign
 
